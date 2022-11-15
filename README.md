@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Python125
+- 👋 Hi, I’m @Python125 (PythonMonty)
 - 👀 I’m interested in becoming a JavaScript programmer.
 - 🌱 I’m currently learning JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any project.
