@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Python125 (PythonMonty)
-- 👀 I’m interested in becoming a data scientist/machine learning engineer.
-- 🌱 I’m currently learning Python and PostgreSQL.
+- 👀 I’m interested in becoming a front-end developer.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 You can reach me here or at andrewnovosel90@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/andrew-novosel-3a59b41ba/
