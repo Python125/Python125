@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Python125 (PythonMonty)
-- 👀 I’m interested in becoming a front-end developer.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 You can reach me here or at andrewnovosel90@gmail.com.
-- LinkedIn: https://www.linkedin.com/in/andrew-novosel-3a59b41ba/
+- 👋 Hello ALL! I’m @Python125 (PythonMonty). Yes, I like Monty Python among many other great comedic acts. I'm a front-end developer bringing my JavaScript, HTML, CSS, and creative skills to enhance my client's online goals. Take a look at some of my repos to get an idea of what I've been up to. Always looking for new assignments and/or to collaborate with others. Reach me directly at andrewnovosel90@gmail.com. Also, I'm on LinkedIn: www.linkedin.com/in/andrew-novosel-3a59b41ba/ and Twitter: https://x.com/PythonMonty5
 
 <!---
 Python125/Python125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
