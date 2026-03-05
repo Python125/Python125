@@ -19,21 +19,15 @@ I enjoy turning ideas into clean, usable web experiences using modern web techno
 
 **Languages**
 
-HTML
-CSS
-JavaScript
+HTML, CSS, JavaScript
 
 **Frontend**
 
-Vue.js
-Tailwind CSS
-Bootstrap
+Vue.js, Tailwind CSS, Bootstrap
 
 **Tools**
 
-Git
-GitHub
-AI-assisted development tools
+Git, GitHub, AI-assisted development tools
 
 ---
 
