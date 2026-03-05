@@ -41,8 +41,7 @@ Git, GitHub, AI-assisted development tools
 
 ## 🌐 Connect
 
-X
-https://x.com/PythonMonty5
+X: https://x.com/PythonMonty5
 
 ---
 
