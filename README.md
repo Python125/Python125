@@ -1,4 +1,58 @@
-👋 Hello ALL! I’m @Python125 (PythonMonty). Yes, I like Monty Python among many other great comedic acts. I’m a front-end-focused developer with experience in Vue, JavaScript, HTML, CSS, Tailwind, Bootstrap, and SCSS, with some exposure to React. I’ve also built projects using NestJS and Prisma, and have explored Python through small experiments, giving me hands-on exposure to backend development. Always looking for new assignments and/or to collaborate with others. Reach me directly at andrewnovosel90@gmail.com. Also, I'm on LinkedIn: www.linkedin.com/in/andrew-novosel-3a59b41ba/ and Twitter: https://x.com/PythonMonty5
+# Hi, I'm Andrew 👋
+
+Frontend developer interested in building responsive websites and interactive web applications.
+
+I enjoy turning ideas into clean, usable web experiences using modern web technologies.
+
+---
+
+## 🧑‍💻 About Me
+
+• Frontend developer focused on HTML, CSS, and JavaScript
+• Interested in building responsive and user-friendly web interfaces
+• Experience working with Vue.js and modern CSS frameworks
+• Curious about new tools and ways to improve development workflows
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+HTML
+CSS
+JavaScript
+
+**Frontend**
+
+Vue.js
+Tailwind CSS
+Bootstrap
+
+**Tools**
+
+Git
+GitHub
+AI-assisted development tools
+
+---
+
+## 📚 Currently Exploring
+
+• Strengthening JavaScript fundamentals
+• Improving frontend development skills
+• Building more interactive web applications
+
+---
+
+## 🌐 Connect
+
+X
+https://x.com/PythonMonty5
+
+---
+
+Thanks for visiting my profile.
 
 <!---
 Python125/Python125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
